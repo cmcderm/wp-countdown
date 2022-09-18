@@ -21,5 +21,18 @@
   "bugs": {
     "url": "https://github.com/loligator/wp-countdown/issues"
   },
-  "homepage": "https://github.com/loligator/wp-countdown#readme"
+  "homepage": "https://github.com/loligator/wp-countdown#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.18",
+    "@webpack-cli/generators": "^2.5.0",
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "prettier": "^2.4.1",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.8.3",
+    "webpack": "^5.74.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.8.1"
+  }
 }
