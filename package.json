@@ -1,0 +1,25 @@
+{
+  "name": "wp-countdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loligator/wp-countdown.git"
+  },
+  "keywords": [
+    "wedding",
+    "wordpress",
+    "countdown",
+    "plugin"
+  ],
+  "author": "Connor McDermott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loligator/wp-countdown/issues"
+  },
+  "homepage": "https://github.com/loligator/wp-countdown#readme"
+}
